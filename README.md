@@ -95,3 +95,18 @@ docker-compose ps
 
 You should see both the `wordpress` and `wordpress-mysql` containers listed and marked as "Up".
 
+![image](https://github.com/user-attachments/assets/da141a18-68f6-41b7-816c-c2ac97178623)
+
+![image](https://github.com/user-attachments/assets/c4cafa59-0a92-4cc8-8fa7-9b3fc9f741ae)
+
+![image](https://github.com/user-attachments/assets/f46c6d4a-cbf5-4b49-bef8-a0da10c1f4a0)
+click on login
+
+![image](https://github.com/user-attachments/assets/8e3d7895-d206-4015-b56a-d6f81679e499)
+
+And create any site on the wordpress easily and save it.
+
+
+
+
+
